@@ -1,0 +1,9 @@
+version: '3'
+services:
+  mysql-db:
+    build:
+      context: ./mysql-db
+    env_file:
+      - ./mysql-db/.env
+    ports:
+      - "3306:3306"
