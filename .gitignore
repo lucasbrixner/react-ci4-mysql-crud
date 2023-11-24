@@ -50,6 +50,9 @@ $RECYCLE.BIN/
 */.env.development.local
 */.env.production.local
 
+!/app/mysql-db/.env
+!/app/php-backend/.env
+
 #-------------------------------------------------------------------------------
 # Code Igniter 4 / PHP Back-End Files
 #-------------------------------------------------------------------------------
