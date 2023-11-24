@@ -84,7 +84,7 @@ $RECYCLE.BIN/
 /app/php-backend/user_guide_src/cilexer/pycilexer.egg-info/*
 
 #-------------------------------------------------------------------------------
-# Code Igniter 4 / PHP Back-End Files
+# React / Node.js Front-End Files
 #-------------------------------------------------------------------------------
 
 # Production Files
